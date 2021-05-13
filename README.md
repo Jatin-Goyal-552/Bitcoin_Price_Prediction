@@ -10,6 +10,6 @@
 <p>If I zoom a little bit in my prediction area :-</p>
 <br>
 <span >
-  <img src="result.png" width="700" height="400" >
+  <img src="result.png" width="700" height="300" >
 </span>
 <br>
